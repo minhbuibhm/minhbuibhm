@@ -9,17 +9,15 @@
 ### 🎯 Dynamic Window Speechformer for Emotion Recognition
 - Novel approach combining hierarchical speech structure with dynamic window concept
 - Improved accuracy in subtle emotion detection, particularly for sad emotion recognition
-- [View Project](link-to-project) · [Live Demo](link-to-demo) · [Paper](link-to-paper)
+- [View Project](https://github.com/minhbuibhm/dynamic-window-speechformer) · [Live Demo](link-to-demo) · [Youtube](https://youtu.be/BwtSvDRdN_8)
 
-### 💬 Multi-Platform Message Analytics System
-- Extended Slack analytics to Microsoft Teams using LLM
-- Improved data pipeline efficiency and response quality
-- [View Project](link-to-project) · [Documentation](link-to-docs)
+### 💬 RAG Chatbot System
+- Developed a RAG-powered chatbot for querying internal documents using LangChain and OpenAI
+- Optimized retrieval pipeline by implementing recursive chunking and hybrid search, reducing hallucination by 40%
+- Enhanced response quality through prompt engineering and context augmentation
+- Tech stack: Python, LangChain, OpenAI, FAISS, FastAPI, Vue.js
+- [View Project](https://github.com/minhbuibhm/rag-chatbot-system) · [Documentation](https://github.com/minhbuibhm/rag-chatbot-system) · Live Demo
 
-### 👕 Virtual Try-On System
-- Enhanced body segmentation for multi-size clothing visualization
-- Full-stack implementation with Python/PostgreSQL & Vue.js
-- [View Project](link-to-project) · [Live Demo](link-to-demo)
 
 ## Technical Skills
 ```python
