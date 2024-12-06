@@ -3,7 +3,6 @@
 ## About Me
 🎓 Computer Science graduate from Bach Khoa University  
 💡 Passionate about AI/ML, particularly in Speech Processing and Natural Language Processing  
-🔭 Currently researching voice and singing analysis at AITech Lab
 
 ## Featured Projects
 
